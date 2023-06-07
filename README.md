@@ -1,6 +1,6 @@
 ### Instructions
 
-1. `git clone https://github.com/djaenicke3/heylaing-app.git`
+1. `git clone https://github.com/bestmycode/heylang_app.git`
 2. `npm install`
 
 (in case didn't work)
